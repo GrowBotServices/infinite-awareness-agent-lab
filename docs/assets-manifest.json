@@ -1,0 +1,18 @@
+{
+  "purpose": "Asset provenance for the standalone Infinite Awareness WebMCP judge sandbox",
+  "assets": [
+    {
+      "name": "infinite-awareness-field-reference",
+      "url": "/manus-storage/infinite-awareness-field-reference_a7ce244a.jpg",
+      "usage": "Hero field artwork",
+      "origin": "Generated specifically for this isolated sandbox"
+    },
+    {
+      "name": "infinite-awareness-mark",
+      "url": "/manus-storage/infinite-awareness-mark_e9d43935.png",
+      "usage": "Header, session watermark, footer and favicon",
+      "origin": "Generated specifically for this isolated sandbox"
+    }
+  ],
+  "note": "The two public sandbox-generated visuals are bundled under client/public/manus-storage at the exact paths already referenced by application source. No production application asset endpoint is used. Session and collective-signal instrumentation is rendered with CSS to remain deterministic."
+}
