@@ -1,6 +1,6 @@
 # Infinite Awareness Agent Lab
 
-This **private source repository** contains the standalone Infinite Awareness WebMCP Judge Sandbox deployed at [infiniteawar-mxufc9c2.manus.space](https://infiniteawar-mxufc9c2.manus.space/). It presents one fictional Day 7 participant journey from a 33-day awareness-training programme and lets a judge complete the complete demonstration in under three minutes.
+This **public source repository** contains the standalone Infinite Awareness WebMCP Judge Sandbox deployed at [infiniteawar-mxufc9c2.manus.space](https://infiniteawar-mxufc9c2.manus.space/). It presents one fictional Day 7 participant journey from a 33-day awareness-training programme and lets a judge complete the complete demonstration in under three minutes.
 
 > This is a technical and educational demonstration. It is not medical or psychological treatment, makes no efficacy claim, and contains no real participant, journal, customer, payment or production data.
 
@@ -127,7 +127,7 @@ This challenge repository adds a **separate, standalone judge sandbox**: the Day
 
 ## Repository safety
 
-The private repository intentionally has no licence. Generated dependencies, builds, logs, caches, environment values and hosting metadata are ignored. Before publication, run the verification commands and review the tracked-file secrets audit described in `docs/VERIFICATION.md`.
+This repository is released under the [MIT License](LICENSE). Generated dependencies, builds, logs, caches, environment values and hosting metadata are ignored. Before each release, run the verification commands and review the tracked-file secrets audit described in `docs/VERIFICATION.md`.
 
 ## References
 
